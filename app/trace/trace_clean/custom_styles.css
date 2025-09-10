@@ -1,0 +1,84 @@
+/* Estilos personalizados para cambiar el tamaño de fuente */
+
+/* Configuración global de fuentes */
+.stApp {
+    font-size: 18px !important;  /* Tamaño base de fuente */
+}
+
+/* Títulos principales */
+.main-header h1 {
+    font-size: 2.5rem !important;
+    font-weight: bold;
+}
+
+.main-header p {
+    font-size: 1.2rem !important;
+}
+
+/* Headers de secciones */
+h1, h2, h3 {
+    font-size: 1.8rem !important;
+    font-weight: 600;
+}
+
+/* Texto del sidebar */
+.css-1d391kg {
+    font-size: 16px;
+}
+
+/* Métricas y estadísticas */
+.stMetric {
+    font-size: 1.1rem;
+}
+
+/* Botones */
+.stButton > button {
+    font-size: 1.1rem;
+    font-weight: 500;
+}
+
+/* Campos de texto */
+.stTextInput input {
+    font-size: 16px;
+}
+
+/* Selectores */
+.stSelectbox select {
+    font-size: 16px;
+}
+
+/* Checkboxes */
+.stCheckbox label {
+    font-size: 16px;
+}
+
+/* Sliders */
+.stSlider label {
+    font-size: 16px;
+}
+
+/* Texto general */
+.stMarkdown {
+    font-size: 18px !important;
+}
+
+/* Labels de widgets */
+label {
+    font-size: 16px !important;
+}
+
+/* Texto de ayuda */
+.help-text {
+    font-size: 14px;
+    color: #666;
+}
+
+/* Texto pequeño para métricas */
+.small-text {
+    font-size: 0.8em !important;
+}
+
+/* Margen izquierdo para estadísticas */
+.stats-section {
+    margin-left: 20px !important;
+}
